@@ -1,6 +1,6 @@
 {
   "name": "clinker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Run files like a pro with clinker!",
   "main": "index.js",
   "scripts": {
